@@ -1,5 +1,6 @@
-$fonts-headline: "arial narrow", Arial, Verdana, sans-serif;
-$fonts-body: verdana, arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Quicksand&display=swap');
+$fonts-headline: 'Carter One', cursive;
+$fonts-body: 'Quicksand', sans-serif;
 $background-color: #daede2;
 $primary: #77c4d3;
 $accent1: #ea2e49;
@@ -7,3 +8,7 @@ $accent2: rgba(246, 247, 146, 0.9);
 $grey-sidebar: rgba(51, 55, 69, 0.9);
 $text-dark: #333;
 $text-light: #fff;
+$pallet1:#CBD1D1;
+$pallet2:#4B7470;
+$pallet3:#BFA37B;
+$pallet4:#AB4E2F;
